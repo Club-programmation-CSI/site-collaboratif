@@ -1,0 +1,16 @@
+{
+  "name": "site-colab",
+  "version": "1.0.0",
+  "description": "Site cree par le club informatique de la csi",
+  "main": "index.js",
+  "repository": "none",
+  "author": "Club prog csi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/p5": "^1.4.3",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "p5": "^1.5.0"
+  }
+}
