@@ -6,6 +6,9 @@
   "repository": "none",
   "author": "Club prog csi",
   "license": "MIT",
+	"scripts":{
+		"start": "parcel ./src/index.html"
+	},
   "devDependencies": {
     "@types/p5": "^1.4.3",
     "parcel": "^2.7.0"
