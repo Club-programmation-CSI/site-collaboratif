@@ -2,7 +2,6 @@
   "name": "site-colab",
   "version": "1.0.0",
   "description": "Site cree par le club informatique de la csi",
-  "main": "index.js",
   "repository": "none",
   "author": "Club prog csi",
   "license": "MIT",
