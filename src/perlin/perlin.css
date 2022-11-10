@@ -1,7 +1,15 @@
 iframe[src=""] {
   display: none;
 }
+	
+iframe{
+	box-sizing: border-box;
+}
 
 h3{
   margin-top: 70px;
+}
+
+body{
+	margin: 0;
 }
